@@ -1,7 +1,7 @@
 
   # Responsive Telemedicine Landing Page
 
-  This is a code bundle for Responsive Telemedicine Landing Page. The original project is available at https://www.figma.com/design/sDWm7BnQcdXHzya2cpjHpk/Responsive-Telemedicine-Landing-Page.
+  This is a code bundle for Responsive Telemedicine Landing Page. The original project is available at https://www.Responsive-Telemedicine-Landing-Page.netlify.app
 
   ## Running the code
 
